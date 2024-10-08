@@ -1,10 +1,1 @@
 # KNT-Client
-1. Tạo project nextjs
-- Sử dụng câu lệnh 'npx create-next-app@latest' để cài đặt phiên bản nextjs mới nhất
-- Sử dụng AppRouter trong nextjs
-- Câu lệnh chạy ứng dụng ở chế độ phát triển (development): "npm run dev"
-- Câu lệnh chạy ứng dụng trong chế độ production: "npm run build"
-2. Sử dụng Tailwindcss,mui để css cho giao diện.
-3. Các gói thư viện cài đặt thêm
-- Redux/Redux Toolkit: dùng để quản lý state của ứng dụng
-- Thư viện icon: sử dụng react-icon để lấy những icon 
