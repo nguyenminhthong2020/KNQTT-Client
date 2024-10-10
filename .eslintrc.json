@@ -1,0 +1,25 @@
+{
+  "extends": [
+    "eslint:recommended",
+    "next/core-web-vitals",
+    "next/typescript"
+  ],
+  "plugins": [
+    "react",
+    "jest"
+  ],
+  "rules": {
+    "indent": [
+      "error",
+      2
+    ],
+    "import/order": [
+      "error",
+      {
+        "alphabetize": {
+          "order": "asc"
+        }
+      }
+    ]
+  }
+}
