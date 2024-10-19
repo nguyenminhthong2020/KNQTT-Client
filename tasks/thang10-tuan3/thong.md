@@ -38,26 +38,37 @@ Code phần A, cài thêm thư viện...,
 
 1. Header 
 1.1 nav trên 
---> 
+--> Khánh
 1.2 nav - secondary menu (tức nav dưới)
---> 
+--> Khánh
 
 (BỎ KHÔNG LÀM) khi scroll, xuất hiện "Ask AI for any thing..." với "Top talents, open job
 
 2. visitor-page-container (main - body cũng là nó)
-Chú ý: khi code, các em mặc dù có thể hard code mock data dữ liệu giả vào,
+Chú ý: khi code, các em mặc dù có thể hard code mock data dữ liệu giả vào, 
 nhưng anh đề xuất nên code vào server (nextjs hỗ trợ BE) để mốt thay api nhanh hơn.
     - 2.1 "We connect people to bring projects to life..."
-    - 2.2 "Explore top talent..."
-    - 2.3 "Up your work game, it’s easy" 
+    --> Thông 
+    - 2.2 "Explore top talent..." 
+    --> Thông 
+    - 2.3 "Up your work game, it’s easy"  
+    --> Khánh
     - 2.4 "Browse talent by category" 
+    --> Tú
     - 2.5 "Recently posted jobs" 
+    --> Tú 
     - 2.6 "This is how good companies find good company."
+    --> Nhân
     - 2.7 Find talent your way
+    --> Nhân
     - 2.8 (BỎ KHÔNG LÀM) phần "Why businesses turn to Upwork"
-    - 2.9 Find great work
+    - 2.9 Find great work 
+    --> Nhân
     - 2.10 Trusted by leading brands and startups
+    --> Quyết
     - 2.11 (BỎ KHÔNG LÀM) phần "We support Ukraine..." (cái này dính tới chính trị, nên bỏ qua)
     - 2.12 Top skills Trending skills Top skills in US Project CatalogTM
+    --> Quyết 
 
 3. Footer : không nhất thiết hiển thị ra full 100% y hệt nó nhé
+--> Quyết 
