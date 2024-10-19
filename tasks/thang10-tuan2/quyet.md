@@ -1,3 +1,4 @@
+# ngày dd/MM/yyyyy 
 1. Tạo project nextjs
 - Sử dụng câu lệnh 'npx create-next-app@latest' để cài đặt phiên bản nextjs mới nhất
 - Sử dụng AppRouter trong nextjs

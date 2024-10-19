@@ -1,4 +1,4 @@
-# thong
+# ngày dd/MM/yyyy
 
 ## 1. Cấu hình cài đặt .eslint :
 
