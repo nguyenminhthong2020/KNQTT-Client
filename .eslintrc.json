@@ -2,16 +2,25 @@
   "extends": [
     "eslint:recommended",
     "next/core-web-vitals",
-    "next/typescript"
+    "next/typescript",
+    "prettier"
   ],
   "plugins": [
     "react",
-    "jest"
+    "jest",
+    "prettier"
   ],
   "rules": {
     "indent": [
       "error",
       2
+    ],
+    "@typescript-eslint/ban-ts-comment": "off",
+    "prettier/prettier": [
+      "error",
+      {
+        "endOfLine": "auto"
+      }
     ],
     "import/order": [
       "error",
